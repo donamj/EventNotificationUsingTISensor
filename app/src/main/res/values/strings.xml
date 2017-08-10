@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whats Happening</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="distance_sort"> Sort on distance </string>
+    <string name="time_sort"> Sort on time </string>
+</resources>

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="thegirlsteam.whatshappening.tabs.TabbedActivity">
+
+    <item
+        android:id="@+id/menu_sort"
+        android:title="Sort"
+        app:actionProviderClass="thegirlsteam.whatshappening.tabs.SortActionProvider"
+        app:showAsAction="always"
+        />
+  <!--
+    <item
+        android:id="@+id/distance_sort"
+        android:orderInCategory="100"
+        android:title="@string/distance_sort"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/time_sort"
+        android:orderInCategory="100"
+        android:title="@string/time_sort"
+        app:showAsAction="never" />
+
+    -->
+</menu>

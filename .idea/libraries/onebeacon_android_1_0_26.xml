@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="onebeacon-android-1.0.26">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/io.onebeacon/onebeacon-android/1.0.26/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/io.onebeacon/onebeacon-android/1.0.26/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

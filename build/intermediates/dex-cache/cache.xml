@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_afff4a378029a0c19a501f2ea5ba45ff8866cf1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6c87466cc04e9c9d407283c577689157f3a55fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3dc7e441f9924f08b8313c14e10bfa156caec2c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_344a3e98f5d8b90a271ec72704333f53110ea6c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_a0c5ff78e53242c30707fc366d051beaba22424c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_7517ea7eceb630fd09107e90c418595154d6df10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_17fc856cb8db46ec5445a2563e07ad5a0c3485b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_2fe48b7671e956fd3b6a4f30f7a4b755633baf95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\io.onebeacon\onebeacon-android\1.0.26\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b730e66947daa4565457b9cc6b481f515926f316">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.onebeacon-onebeacon-android-1.0.26_1dfc38fc4d7aba18396862dc5a7fc9a4715f8d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_76757873434c03d7bc8dd7d7ed353fae76513dc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_3853f3d6bbe2317e0149ac487292ab9519da6329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a4f976feffa7b7e2ebb2d75e5d289f04708d0b2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.6.1_83177168ffc9b2c7b1150c6b7a229d94fa0075df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_b9798f8458deb6121a22030a1e2c9dd8bc58a29a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.6.1_c35ea7ae30969db86776df330ead7992205a6721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.6.1_eabc1ce22d0b399f1f40a7dead6572f368cf528a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_6a7591e790ffd2e5761e623db70b431320b8c65f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_657755a4a350ab5f7b39f6e512e11acfced27c31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8adfba74c747850c89f1a74b70f38b85532f63c5">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8dce9eaaff9d202b386a887d519a0e55c67a2f90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_9004f867790501bb7ef3d6b9ab8908ba9ca953a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47d2a699d96e61e09514234e0fd3d7063a9dd7cb">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0a5d74df5eed021cab37d5aa6ce098237e0fb9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.6.1_0978ac91db8f68a67ea00ba3cd1edd041d0fc81a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_8ae005b7396912ffae141aebff0a0b657fcca128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cb31fac968dd7c96510edd5cae61c060d642ce4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_12c5cf3ff8ef2160500756e54c811284aaac2da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_c6aedbc05176263768f046518bb10cc96c0db63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Dona Maria Jose\AndroidStudioProjects\whatshappening\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_12eb8a086e0e1ec4ec5b436cbab45e34209fc58c\classes.dex" />
+    </item>
+
+</items>
